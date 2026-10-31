@@ -14,7 +14,7 @@ Build agents on the JVM, expose their capabilities as web services, and connect 
 |---|---|
 | Write and run my first agent | [Getting started with ASTRA](https://guide.astralanguage.com/en/latest/getting-started.html) |
 | Learn the language | [ASTRA programming guide](https://guide.astralanguage.com/en/latest/) |
-| Build LLM-powered agents | [Build Agentic Systems](https://guide.astralanguage.com/en/latest/llm/index.html) |
+| Build LLM-powered agents | [LLM Integration](https://guide.astralanguage.com/en/latest/llm/index.html) |
 | Build an agent-based web service | [MAMS guide](https://guide.astralanguage.com/en/latest/mams/index.html) |
 | Connect agents to devices | [MAMS WoT source and examples](https://gitlab.com/mams-ucd/mams-wot) |
 | Explore the compiler and runtime | [ASTRA core](https://gitlab.com/astra-language/astra-core) |
